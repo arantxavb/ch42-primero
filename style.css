@@ -1,0 +1,24 @@
+
+/* CSS type Selector */
+body{
+    background-color: #DE8158;
+    color: #3A1B3A;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-color: #F8BA5A;
+    color: #B15458;
+    padding: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+/* CSS type selector: pseudo class selector */
+button:hover{
+    background-color:orange ;
+}
+
+h1{
+    color: #763350;
+}
